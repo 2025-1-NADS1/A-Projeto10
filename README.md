@@ -8,11 +8,16 @@
 
 # Smart Cities
 
-## Force X
+## Deximal
 
-## Integrantes: <a href="https://www.linkedin.com/in/enzo-ribeiro/">Enzo Ribeiro da Silva</a>, <a href="https://www.linkedin.com/in/rikelmy-anacleto-07102006d18/">Rikelmy Anacleto</a>, <a href="https://www.linkedin.com/in/ian-lattarulo-l-aa01742a7">Ian Lattarulo</a>, <a href="https://www.linkedin.com/in/rafael-daniel-314407321/">Rafael Daniel</a>
+## Integrantes: <a href="https://github.com/victorbancatelli">Victor Bancatelli Lucena Lopes</a>, <a href="https://github.com/CauanLima-1">Cauan Moreira da Silva Lima</a>, <a href="https://github.com/AndreFerreira30">André Ferreira</a>
 
 ## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Victor Bruno</a>
+## Professores Orientadores: <a href="https://www.linkedin.com/in/lucymari/">Lucy Mari Tabuti</a>
+## Professores Orientadores: <a href="https://www.linkedin.com/in/ronaldo-araujo-pinto-3542811a/">Ronaldo Araujo Pinto</a>
+## Professores Orientadores: <a href="https://www.linkedin.com/in/remuniz/">Renata Muniz do Nascimento</a>
+## Professores Orientadores: <a href="https://www.linkedin.com/in/aimarlopes/">Aimar Martins Lopes</a>
+## Professores Orientadores: <a href="https://www.linkedin.com/in/eduardo-savino-gomes-77833a10/">Eduardo Savino</a>
 
 ## Descrição
 
