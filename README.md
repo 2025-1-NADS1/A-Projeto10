@@ -8,7 +8,7 @@
 
 # Smart Cities
 
-## Force X
+## Dexcimal
 
 ## Integrantes: <a href="https://github.com/victorbancatelli">Victor Bancatelli Lucena Lopes</a>, <a href="https://github.com/CauanLima-1">Cauan Moreira da Silva Lima</a>, <a href="https://github.com/AndreFerreira30">André Ferreira</a>
 
