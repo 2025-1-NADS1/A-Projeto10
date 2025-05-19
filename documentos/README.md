@@ -29,4 +29,27 @@
 <br><br>
 
 
+## Entrega 2
+<br><br>
+
+### Redes de Computadores
+
+<b>Redes de Computadores - [Projeto/Documento]https://drive.google.com/file/d/1_p6tpmlC3cIH2Vc0RnZFI12jU-MoKU56/view?usp=sharing</b>
+<br><br>
+
+### Banco de Dados
+
+<b>Diagrama Entidade-relacionamento- [Projeto/Documento]https://drive.google.com/drive/folders/1lMpRD7_q3YWQYRBmJ9Wqn8Bmsogf__cO?usp=sharing</b>
+<br><br>
+
+### Modelagem de Software
+
+<b>Documentação - [Projeto/Documento]https://drive.google.com/file/d/12uGGgZB3nwlAo7QxEfFU3CTQ8c_O8gXR/view?usp=sharing</b>
+<br><br>
+
+### Algoritmo e Lógica de Programação 
+
+<b>Algoritmo - [Projeto/Documento]https://drive.google.com/file/d/1tLlPaCACK0NU-fYQ_wEbUPO-mQYVUtmb/view?usp=sharing</b>
+<br><br>
+
 
